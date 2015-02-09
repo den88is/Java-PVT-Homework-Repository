@@ -1,5 +1,5 @@
 # Java-PVT-Homework-Repository
-Repository for homeworks from Java PVT.
+Repository for homeworks from Java PVTספûספû.
 
 ## Project structure
 
